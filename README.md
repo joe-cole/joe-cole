@@ -1,6 +1,6 @@
 ## Greetings, I'm Joe
 
-###I'm learning programming and am a Linux enthusiast!
+### I'm learning programming and am a Linux enthusiast!
 
 - I work in Sales Engineering
 - 2021 Goal(s): Learn GitHub and AWS
